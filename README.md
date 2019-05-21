@@ -1,6 +1,8 @@
-# mpy-flasher [English](English.md) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
+# mpy-flasher [English](English.md)
 
-乐鑫 esp 系列烧录 MicroPython 简易 GUI 烧写工具。
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
+上海乐鑫 ESP8266 / ESP32 系列芯片烧录 MicroPython 简易 GUI 烧写工具。
 
 ## 特点：
 

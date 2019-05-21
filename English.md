@@ -1,6 +1,8 @@
-# mpy-flasher [中文](README.md) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
+# mpy-flasher [中文](README.md)
 
-Lesin esp series burn MicroPython simple GUI burn tools.
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
+ESPRESSIF SYSTEMS (SHANGHAI) ESP8266/ESP32 burn MicroPython simple GUI burn tools.
 
 ## Features:
 
