@@ -1,0 +1,6 @@
+ecdsa==0.13.2
+esptool==2.6
+pyaes==1.6.1
+PyQt5==5.12.2
+PyQt5-sip==4.19.17
+pyserial==3.4
