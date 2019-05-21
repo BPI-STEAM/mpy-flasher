@@ -1,4 +1,4 @@
-# mpy-flasher [中文](README.md)
+# mpy-flasher [中文](README.md) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
 
 Lesin esp series burn MicroPython simple GUI burn tools.
 

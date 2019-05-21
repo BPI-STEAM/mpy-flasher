@@ -1,4 +1,4 @@
-# mpy-flasher [English](English.md)
+# mpy-flasher [English](English.md) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
 
 乐鑫 esp 系列烧录 MicroPython 简易 GUI 烧写工具。
 
