@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 '''
-@File   :esp_config.py.py
+@File   :esp_config.py
 @Author :youxinweizhi
 @Date   :2019/3/29
 @Github :https://github.com/youxinweizhi
