@@ -25,7 +25,7 @@
 
 ### 运行 mpy-flasher 软件
 
-### 1. 到 [releases](https://github.com/junhuanchen/mpy-flasher/releases) 下载 editor.exe 。
+### 1. 到 [releases](https://github.com/junhuanchen/mpy-flasher/releases) 下载 mpy-flasher.exe 。
 
 寻找你所用的系统版本并下载，如果下载很慢，可以用[微云地址](https://share.weiyun.com/5Jvl8ln)，下载后双击运行它。
 
