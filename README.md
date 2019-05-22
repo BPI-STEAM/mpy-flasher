@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;一款烧写 MicroPython 固件的工具
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;一款烧写 MicroPython 固件的工具
 
 [English Docs](English.md)
 
