@@ -2,8 +2,6 @@
 
 [中文文档](README.md)
 
-# mpy-flasher
-
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 ESPRESSIF SYSTEMS (SHANGHAI) ESP8266/ESP32 burn MicroPython firmware GUI tools.
