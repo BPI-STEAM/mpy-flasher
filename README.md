@@ -1,12 +1,14 @@
-# mpy-flasher [English](English.md)
+# &emsp;&emsp;&emsp;&emsp;&emsp;一款烧写 MicroPython 固件的工具
+
+[English Docs](English.md)
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-上海乐鑫 ESP8266 / ESP32 系列芯片烧录 MicroPython 简易 GUI 烧写工具。
+上海乐鑫 ESP8266 / ESP32 系列芯片烧录 MicroPython 固件的 GUI 工具。
 
 ## 特点：
 
-1. 自动查找 本机串口 和 启动目录下的固件（.bin）文件。
+1. 自动查找 本机串口 和 软件启动目录下的固件（.bin）文件。
 
 2. 支持启动配置，可以定义自动运行、是否擦除、高级烧录。
 
@@ -77,7 +79,7 @@ python mpy-flasher.py
 
 ## 烧写 NodeMCU （esp8266）的 MicroPython
 
-你可以看到将 Bpibit 硬件插入后，软件会显示如下情况。
+你可以看到将 NodeMCU 硬件插入后，软件会显示如下情况。
 
 ![](readme/11.png)
 
