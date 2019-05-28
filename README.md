@@ -4,7 +4,7 @@
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-上海乐鑫 ESP8266 / ESP32 系列芯片烧录 MicroPython 固件的 GUI 工具。
+用于上海乐鑫 ESP8266 / ESP32 系列芯片烧录 MicroPython 固件的 GUI 工具。
 
 ## 特点：
 
